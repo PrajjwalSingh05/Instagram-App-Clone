@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "814685302511",
+    "project_id": "instrgram-clone-ed441",
+    "storage_bucket": "instrgram-clone-ed441.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814685302511:android:e1509f28108abca8e7351a",
+        "android_client_info": {
+          "package_name": "com.example.instrgramclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEs8iJVy3URVscg-d6Nm_508k2VDyZNY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
